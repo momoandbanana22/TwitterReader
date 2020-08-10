@@ -5,6 +5,11 @@ source "https://rubygems.org"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
+
+# format checker
+gem "rubocop"
+
+# debugger
 gem "debase"
 gem "ruby-debug-ide"
 
