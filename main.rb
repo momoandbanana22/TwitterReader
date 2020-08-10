@@ -1,4 +1,5 @@
+# TwitterReader main.rb
 require 'yaml'
 
-configAPIKEY = YAML.load_file("apikey.yaml")
-# pp configAPIKEY
+ConfigAPIKEY = YAML.load_file('apikey.yaml')
+pp ConfigAPIKEY
