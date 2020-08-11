@@ -13,4 +13,5 @@ gem 'rubocop'
 gem 'debase'
 gem 'ruby-debug-ide'
 
+gem 'twitter'
 gem 'yaml'
